@@ -1,0 +1,33 @@
+Author:
+emptythemagazine
+
+Notes:
+IT IS ILLEGAL TO MAKE A SILENCER WITHOUT JUMPING THROUGH ALL THE RIDICULOUS GOVERNMENT HOOPS.
+
+Lets call this “The Dirty Diane!” If you’re reading this Mrs. Feinstein; YOU are the reason I did this. Now anyone can make a surprisingly effective Oil Filter Silencer Adapter for themselves in the comfort of their own home by just pushing a button. It’s all you Dirty Diane!
+
+Bottom line: a very effective $10 disposable silencer.
+
+I already make this part out of stainless steel at my website gunthreadadapters.com – I’m not really trying to plug it, but I have videos there to give you the idea of how this works. I’m giving the S3600 design away for 3D printing here free. I re-designed it to have a strong, thick integral washer that matches up to the gasket that already exists on the oil filter. No need for the separate steel and rubber washers. Just print, screw it onto the filter, you’re done.
+
+I’m sure it won’t last as long in plastic, but long enough to prove the NFA Silencer Law is pointless. Disposable oil filter silencer with adapter for under $10. Ban plastic and oil filters? Proof that bans, severe regulation, and Cleptocrat Posturing don’t have any impact on criminals. Absolute Proof that Gun Control has nothing to do with preventing crime and tragedy.
+
+Oil filters make surprisingly good suppressors. All you need is a way to attach it. Ban threaded barrels? Already ahve a plan for that, too… Won’t have any impact.
+
+I drew the threads to the snug side of the 2B standard. It’s plastuic, it’ll flex and grip a little. If it’s too tight you can adjust or tap as you see fit. Not hard to alter this drawing.
+
+I believe the mass of other larger fitlers will probably make the adapter self-destruct in any moving barrel application. This one will fail after a while, and faster with heat. Perfect for a Walther P22 tho… Would probably do alright on the AR-57 with sub-sonic ammo. This uses a significantly smaller filter than the filter seen on the other oil filter silencer guy videos. I may create one for .300 AAC Blackout w/ the 1R-0749/1R-0750 Filter, also.
+
+This would be perfectly legal in the USA as a Solvent Trap Adapter. The ATF has conflicting information about what is just a thread adapter, and what is a silencer. Again, not reall trying to plug my website, but I have more information at gunthreadadapters.com – I feel obligated to explain the potential legal liability, and I’ve already done so on my web site. I don’t feel like repeating it in it’s entirety.
+
+The stress-releiving radii are important even in the Stainless Steel parts that I make. It will be crucial to smoothe out your print in those critical areas. Yay 400 grit sandpaper… Being made of plastic, it’s going to fail anyway. But, if you leave stress points, it’ll probably break in one shot.
+
+I drew this pretty quickly. It is dimensionally fine, but I didn’t do proper relations, so modification will be a bit sloppy. The integral washer notion uses a lot of material both in its diameter and the need for strength. You could revolve a cut to match my current deign very easily and save a bunch of plastic. But, then you’d need the washers if you wanted it to be airtight.
+
+I chose to omit the “engraved” taunting… :-p
+
+Any BTC donations would be appreciated: 1BBiu1m4ugtstvbVx7rkBAjzzTF7CvTRRp
+
+IT IS ILLEGAL TO MAKE A SILENCER WITHOUT JUMPING THROUGH ALL THE RIDICULOUS GOVERNMENT HOOPS.
+
+"THE DIRTY DIANE" 12-28 TO 34-16 STP S3600 OIL FILTER SILENCER ADAPTER
