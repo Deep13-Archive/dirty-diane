@@ -1,1 +1,1 @@
-t lfs track "*.mp4"
+git lfs track "*.mp4"
